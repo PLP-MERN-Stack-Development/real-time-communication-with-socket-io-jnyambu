@@ -1,3 +1,25 @@
+# 💬 Real-Time Chat Application with Socket.io
+
+A full-stack real-time chat application built using **React**, **Node.js**, **Express**, **Socket.io**, and **MongoDB**.  
+The app supports user authentication, multiple chat rooms, live messaging, typing indicators, read receipts, and real-time user presence updates.
+
+---
+
+## 🚀 Features
+
+✅ **User Authentication** (JWT-based Login / Signup)  
+✅ **Multiple Chat Rooms / Private Messaging**  
+✅ **Real-Time Messaging** (Powered by Socket.io)  
+✅ **Typing Indicators & Read Receipts**  
+✅ **Online / Offline Presence Updates**  
+✅ **Notifications for New Messages / Activity**  
+✅ **MongoDB Persistence with Mongoose**  
+✅ **Docker-Ready Setup (MongoDB + Server + Client)**  
+
+---
+
+## 🏗️ Folder Structure
+
 # Real-Time Chat Application with Socket.io
 
 This assignment focuses on building a real-time chat application using Socket.io, implementing bidirectional communication between clients and server.
